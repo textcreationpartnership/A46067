@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial account of divers remarkable proceedings the last sessions of Parliament relating to the horrid Popish plot &amp;c. ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46067</idno><idno type="EEBO-CITATION">11923461</idno>
+  <idno type="VID">50989</idno>
+  <idno type="EEBO-PROQUEST">2240893824</idno>
+  
+            <idno type="STC">Wing I61</idno>
+            <idno type="STC">ESTC R14913</idno>
+            <idno type="OCLC">11923461</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50989)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 816:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial account of divers remarkable proceedings the last sessions of Parliament relating to the horrid Popish plot &amp;c. ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Jesuits --  England.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50989:1"/>
+            <pb facs="tcp:50989:1"/>
+            <p>
+               <hi>AN</hi> IMPARTIAL ACCOUNT OF <hi>Divers Remarkable Proceedings</hi> The last Sessions of PARLIAMENT Relating to the <hi>Horrid Popish Plot, &amp;c, (VIZ.)</hi> The Manner of Choosing their SPEAKER.</p>
+            <p>The Speeches of divers Worthy MEMBERS, relating to that.</p>
+            <p>The Vote of the House at large in Defence of the King and the Protestant Religion.</p>
+            <p>The Articles of Impeachment against the Five Lords in the <hi>TOWER.</hi>
+            </p>
+            <p>The Articles of Impeachment against <hi>Thomas</hi> Earl of <hi>Danby,</hi> and his Letter.</p>
+            <p>The Earl of <hi>Danby</hi>'s Pardon and Plea.</p>
+            <p>The Reason and Narrative of the Proceedings betwixt the Two Houses of Parliament concerning the Lords in the <hi>TOWER,</hi> &amp;c.</p>
+            <p>The Proceedings of the House of Lords, concerning the Lords in the <hi>TOWER,</hi> and the Names of those Lords that Entred their Protest.</p>
+            <p>A Copy of the Bill relating to the DUKE of <hi>YORK.</hi>
+            </p>
+            <p>A Copy of a SPEECH upon the Reading of the same <hi>(Being not in any other.)</hi>
+            </p>
+            <p>The Earl of <hi>Shaftsbury</hi>'s SPEECH in the House of Lords.</p>
+            <p>Mr. <hi>Powel</hi>'s SPEECH concerning the Earl of <hi>Danby.</hi>
+            </p>
+            <p>Mr. <hi>Palme</hi>'s REPORT about the Temporary Laws.</p>
+            <p>
+               <hi>With an Address against the Duke of</hi> Lauderdale, (never before Printed.)</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:50989:2"/>
+            <head>
+               <hi>The late Parliament being Dissolved by His</hi> MAJESTIES <hi>Proclamation, Writs were forthwith Issued out by His Majesties Command, for Electing New Members, to meet at</hi> Westminster, <hi>the</hi> Sixth <hi>of</hi> March, 1678. <hi>And the Honourable House of Commons being met accordingly, Chose Mr.</hi> Seymour <hi>their Speaker, and Adjourned till next day in the Afternoon.</hi>
+            </head>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>MARCH the Seventh, 1678.</date>
+                  </dateline>
+               </opener>
+               <p>THE Commons met about Three of the Clock in the Afternoon, and about Four, the Usher of the <hi>Black Rod</hi> came down with a Message for them to attend His Majesty in the House of Lords; where, they be<g ref="char:EOLhyphen"/>ing come, His Majesty sitting in his Robes and Crown upon his Head, Mr. <hi>Seymour</hi> Informed his Majesty, That he having been Graciously Pleased to give leave to the House of Commons to choose them a Speaker, they had unanimously pitcht upon him for their Speaker, and that he was willing to serve His Majesty and them to the utmost of his Power: To which His Majesty made no Answer, but the Lord Chancellour stood up, and made a Speech to this effect.</p>
+               <p>That if His Majesty should always except a Person pitcht upon by the House of Commons, then it would be no great Favour to be chosen a Speaker, and therefore His Majesty, as being the best Judge of Persons and Things, thought fit to except against Mr. <hi>Seymour,</hi> as being fitly qualified for other Services and Imploy<g ref="char:EOLhyphen"/>ments, without giving any Reason to the Person Choosing, or the Persons Chosen, and therefore Ordered them to pitch upon some other Person by to Morrow Eleven of the Clock, to be presented to His Majesty for His Approbation.</p>
+               <p>The Commons immediately returned back to their own House, where Sir <hi>John Earnly</hi> stood up and ac<g ref="char:EOLhyphen"/>quainted them he had Order from His Majesty to recommend Sir <hi>Thomas Meers</hi> unto them to be their Speaker, as a Person well known in the Method and Practice of Parliament, and a Person that he thought would be very Acceptable and serviceable to them.</p>
+            </div>
+            <div type="testimony">
+               <head>
+                  <hi>The House in a Great Heat, cryed out,</hi> No, No.</head>
+               <p>Then stood up Mr. <hi>Sacheveral,</hi> and said, It was never known that a Person should be excepted against and no Reason at all given, and therefore concluded, That it was done on purpose to gratifie some particular Persons, for Mr. <hi>Seymour</hi> was a Man who performed the Service formerly without Complaint: And as he would not consent to the prejudice of one Hair of the Crown or Prerogative, so he will not infringe the Liberty of the People in parting with the least of their Just Righrs.</p>
+               <sp>
+                  <speaker>Mr. <hi>Williams,</hi>
+                  </speaker>
+                  <p>This seems to be a Question of Right; for above 100 years past, it hath not been known that any Speaker, presented to the Kings or Queens of <hi>England,</hi> were ever excepted against without some Reason given, or for some great Cause, and the thing in it self of presenting him to the King (as he humbly conceived) was but a bare Complement; and if we shall suffer this, we shall be put upon it daily: Let's Adjourn for the present.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir. <hi>Thomas Clarges.</hi>
+                  </speaker>
+                  <p>There were Parliaments long before there were Speakers chosen; and afterwards for the case of the House among themselves they pitcht upon a Speaker: Besides, I can prove not long since, when Parliaments have Adjourned themselves <hi>de die in diem,</hi> for fourteen days together, without any Speaker among them, and the Clerk of the House always put the Word for Adjournment.<hi>—Gentlemen,</hi> All our Lives and Liberties are preserved by this House, and therefore we are to preserve the Liberties of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Garraway,</hi>
+                  </speaker>
+                  <p>If you admit this, you will admit any thing: If Mr. <hi>Seymour</hi> be rejected from being Speaker, and no reason given, pray who must chuse a Speaker, the King, or us? It's plain, not us. I remember, when <hi>Pophant</hi> was Speaker, he was rejected; but the Reason was given, Because he had been wounded, and was sickly: And another lately for not being able to endure by reason of disability of Body: but nothing of this can be ob<g ref="char:EOLhyphen"/>jected against Mr. <hi>Seymour,</hi> he being an approved Person, by his Majesty the last Parliament.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir <hi>Thomas Lee.</hi>
+                  </speaker>
+                  <p>I cannot forget how we addressed our selves to his Majesty the last Parliament, as fearing his Person to be in danger, by reason of the Plot, but we received no Answer at all in a whole week, from <hi>Monday</hi> to <hi>Monday:</hi> that we were immediately Prorogued unexpectedly; and a little after dissolved as unexpectedly. And I sup<g ref="char:EOLhyphen"/>pose the same persons that gave that Advice, gave this also. To except against a Speaker without giving a Reason, is to do any thing that may set us together by the Ears, and then they have their designed Ends: but I shall not consent to part with the least Right that belongs to my Country, for whom I am chosen a Representative.</p>
+               </sp>
+               <sp>
+                  <speaker>Colonel <hi>Birch.</hi>
+                  </speaker>
+                  <p>He that Advised this, will readily advise more I'le warrant you, this is only a Bone cast in among us: I thought we could not have obliged his Majesty more then to pitch upon a Privy Counsellour to be Speaker of this House, and one in so great Favour with his Majesty, and in several great Offices and Imployments
+<pb n="3" facs="tcp:50989:2"/> under him: Besides, yesterday he was at <hi>White-Hall,</hi> after we had chosen him Speaker, to acquaint his Majesty with it, and then his Majesty was very well pleased with the choice. And for the Truth of this, I appeal to Mr. <hi>Seymour</hi> himself: But this ill Advice is given since, by some I fear, too near the King. I shall not touch upon Prerogative, but let's think upon Adjournment at present</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Powel.</hi>
+                  </speaker>
+                  <p>This is an Ominous thing, to stumble at the Threshold before we are in the House: but this Advice must proceed from some who are too near the King, and fearful we should agree: but I hope there is no Man here a Representative of his Country, that is fearful of speaking his Mind boldly, in favour of those whom he Represents, nor yet afraid of being Dissolved, if it be to Morrow, for Maintaining the Right of those who chose them to sit here for them. I will not invade Prerogative; neither will I consent to the infringement of the least Liberty of my Country. But let us do nothing hastily, but consider Presidents, and Adjourn our selves till to Morrow 9 a Clock:</p>
+               </sp>
+               <p>To which the whole House agreed.</p>
+            </div>
+            <div type="resolution">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Lunae</hi> 24 <hi>Die Martii,</hi> 1678.</date>
+                  </dateline>
+               </opener>
+               <head>Resolved, <hi>Neminecontra dicente,</hi>
+               </head>
+               <p>THAT this House doth declare, that they are fully satisfied by the Proofs they have heard, That there now is, and for divers Years last past hath been, <hi>a Horrid and Treasonable Plot and Co<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>spiracy,</hi> Con<g ref="char:EOLhyphen"/>trived and Carried on by those of the <hi>Popish Religion,</hi> for the murdering of His Majesties sacred Person, and for Subverting the Protestant Religion, and the Ancient and well established Government of this Kingdom.</p>
+            </div>
+         </div>
+         <div type="articles_of_impeachment">
+            <head>
+               <hi>Articles of Impeachment of High Treason, and other high Crimes and Offences against</hi> William <hi>Earl of</hi> Powis, William <hi>Viscount</hi> Stafford, Henry <hi>Lord</hi> Arundel <hi>of</hi> Wardour, William <hi>Lord</hi> Petre, <hi>and</hi> John <hi>Lord</hi> Bellasis, <hi>now Prisoners in the</hi> Tower.</head>
+            <p>THat for many years now last past, there hath been contrived and carried on a Traiterous and Execrable Conspiracy and Plot within this Kingdom of <hi>England,</hi> and other places, to alter, change, and sub<g ref="char:EOLhyphen"/>vert the Ancient Government and Laws of this Kingdom and Nation, and to suppress the true Religion therein established, and to extirpate and destroy the Professors thereof; which said Plot and Conspiracy was contrived and carryed on in divers places, and by several ways and means, and by a great number of Persons of several Qualities and Degrees, who acted therein, and intended to execute and accomplish the aforesaid Wicked and Traiterous Designs and Purposes.</p>
+            <p>That the said <hi>William</hi> Earl of <hi>Powis, William</hi> Viscount <hi>Stafford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellasis,</hi> together with <hi>Philip Howard,</hi> commonly called Cardinal of <hi>Norfolk, Thomas White</hi> alias <hi>Whitebread,</hi> commonly called Provincial of the <hi>Jesuits</hi> in <hi>England, Richard Strange,</hi> late Provincial of the <hi>Jesuits</hi> in <hi>England, Vincent,</hi> commonly called Provincial of the <hi>Dominicans</hi> in <hi>England, James Corker,</hi> commonly called President of the <hi>Benedictins,</hi> Sir <hi>John Warner</hi> alias <hi>Clare,</hi> Baronet, <hi>William Harcourt, John Keines, Nicholas Blundel, Pole Edward Mico, Thomas Beddingfield</hi> alias <hi>Benifield, Bazill Langworth, Charles Peters, Richard Peters, John Conyers,</hi> Sir <hi>George Wakeman, John Fenwick, Dominick Kelly, Fitz-Gerald, Evers,</hi> Sir <hi>Thomas Preston, William Lovell</hi> Jesuits, Lord <hi>Baltamore, John Carrel, John Townely, Richard Langhorn, William Foggarty, Thomas Pèany, Matthew Medbourn, Edward Cole<g ref="char:EOLhyphen"/>man, William Ireland, John Grove, Thomas Pickering, John Smith,</hi> and divers others, <hi>Jesuits, Priests</hi> and <hi>Fryars,</hi> and others persons, as false Traitors to His Majesty and this Kingdom, within the time aforesaid have Traytorously consulted, contrived and acted to and for the accomplishing of the said wicked, pernicious, and Traitorous Designs, and for that end did most wickedly and Traytorously agree, conspire and resolve to Imprison, depose, and murther His Sacred Majesty, and to deprive him of His Royal State, Crown and Digni<g ref="char:EOLhyphen"/>ty, and by malicious and advised speaking, writing and otherwise, declared such their Purposes and Intentions.</p>
+            <p>And also to subject this Kingdom and Nation to the <hi>Pope</hi> and his Tyrannical Government.</p>
+            <p>And to seize and share amongst themselves the Estates and Inheritances of His Majesty's <hi>Protestant</hi> Subjects.</p>
+            <p>And to erect and restore Abbies, Monasteries, and other Covents and Societies, which have been long since by the Laws of this Kingdom supprest for their Superstition and Idolatry, and to deliver up and restore to them the Lands and Possessions now invested in His Majesty and His Subjects by the Laws and Statutes of this Realm.</p>
+            <p>And also to Found and Erect new Monasteries and Convents, and to remove and deprive all <hi>Protestant</hi> Bishops and other Ecclesiastical Persons from their Offices, Benefices, and Preferments; and by this means to destroy His Majesties Person, extirpate the <hi>Protestant</hi> Religion, overthrow the Rights, Liberties, and Properties of all His Majesties good Subjects, subvert the lawful Government of this Kingdom, and subject the same to the Tyranny of the See of <hi>Rome.</hi>
+            </p>
+            <p>That the said Conspirators and their Complices and Confederates Trayterously had, and held, several Meet<g ref="char:EOLhyphen"/>ings, Assemblies, and Consultations, wherein it was contrived and designed amongst them what means should be used, and what Persons and Instruments should be employed to murder His Majesty; and did then and there resolve to effect it by Poysoning, Shooting, Stabbing, or some such like ways and means; and offered Rewards and Promises of Advantage to several Persons to execute the same, and hired and employed seve<g ref="char:EOLhyphen"/>ral
+<pb n="4" facs="tcp:50989:3"/> wicked Persons to go to <hi>Windsor</hi> and other places where His Majesty did reside, to murder and destroy His Majesty<hi>:</hi> which said Persons, or some of them, accepted such Rewards, and undertook the perpetrating thereof, and did actually go to the said places for that end and purpose.</p>
+            <p>That the said Conspirators, the better to compass their Trayterous Designs, have consulted to raise and have procured and raised Men, Money, Horses, Arms and Ammunition; and also have made application to, and treated and corresponded with the Pope, his Cardinals, Nuncios, and Agents, and with other Foreign Mi<g ref="char:EOLhyphen"/>nisters and Persons to raise Tumuls within this Kingdom, and to Invade the same with Foreign Forces, and to surprize, seize, and destroy His Majasties Navy, Forts, Magazines, and places of strength within this King<g ref="char:EOLhyphen"/>dom: Whereupon the Calamities of War, Murders of Innocent Subjects, Men, Women, and Children; Burnings, Rapines, Devastations, and other dreadful miseries and mischiefs must inevitably have ensued, to the ruine and destruction of this Nation.</p>
+            <p>That the said Conspirators have procured, accepted, and delivered out several Instruments, Commissions, and Powers made and granted by, or under the Pope, or other unlawful and usurping Authority, to raise and dispose of men, Money, Arms, and other things necessary for their wicked and Trayterous Designs, and namely, a Commission to the said <hi>Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour,</hi> to be Lord High Chancellor of <hi>England,</hi> to the said <hi>William</hi> Earl of <hi>Powis,</hi> to be Lord Treasurer of <hi>England:</hi> Another Commission to the said <hi>John</hi> Lord <hi>Bellasis</hi> to be General of the Army to be raised, and the said <hi>William</hi> Lord <hi>Petre</hi> to be Lieutenant Ge<g ref="char:EOLhyphen"/>neral of the said Army, and a Power to the said <hi>William</hi> Viscount <hi>Stafford</hi> to be Pay-master of the Army: That in order to encourage themselves in prosecuting their said wicked Plots, Conspiraces, and Treasons, and to hide and hinder the discovery of the same<hi>:</hi> and to secure themselves from Justice and punishment, the Conspirators aforesaid, and Confederates, have used many wicked and Diabolical Practises, <hi>(viz.)</hi> They did cause their Priests to Administer to the said Conspirators an Oath of Secrecy, together with their Sacrament; and also did cause their said Priests upon Confessions to give their Absolutions, upon condition that they should conceal the said Conspiracy.</p>
+            <p>And when about the Month of <hi>September</hi> last Sir <hi>Edmundbury Godfrey,</hi> a Justice of Peace, had, according to the Duty of his Oath and Office taken several Examinations and Informations concerning the said Con<g ref="char:EOLhyphen"/>spiracy and Plot, the said Conspirators, or some of them, by Advice, assistance, Counsel and Instigation of the rest, did incite and procure divers persons to lye in wait and pursue the said Sir <hi>Edmumdbury Godfrey</hi> seve<g ref="char:EOLhyphen"/>ral dayes, with intent to murther him, which at last was perpetrated and effected by them; for which said horrid Crimes and Offences <hi>Robert Green, Henry Berry,</hi> and <hi>Lawrence Hill,</hi> have since been attainted, and <hi>Dominick Kelly,</hi> and <hi>Gerald,</hi> and others, are fled for the same.</p>
+            <p>After which Murther, and before the Body was found, or the Murther known to any but Complices therein, the said persons falsly gave out that he was alive and privately married; and after the Body was found, dispersed a false and malitious Report that he had murthered himself.</p>
+            <p>Which said Murther was committed with design to stifle and suppress the Evidence he had taken, and had knowledge of, and to discourage and deter Magistrates, and others, from acting in the further discovery of the said Plot and Conspiracy, for which end also the said Sir <hi>Edmundbury Godfrey</hi> while he was alive, was by them, their Complices, and Favorites, threatned and discouraged in his proceedings about the same.</p>
+            <p>And of their further malice they have wickedly contrived by many false suggestions, to lay the imputation and guilt of the aforesaid horrid and detestable Crimes upon the Protestants, that so thereby they might escape the Punishments they have justly deserved, and expose the Protestants to great scandal, and subject them to Persecution and Oppression in all Kingdoms and Countries where the <hi>Roman</hi> Religion is received and pro<g ref="char:EOLhyphen"/>fessed.</p>
+            <p>All which Treasons, Crimes, and Offences above-mentioned, were contrived, committed, perpetrated, acted, and done by the said <hi>William</hi> Earl of <hi>Powis, William</hi> Lord Viscount <hi>Stafford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellasis,</hi> and every of them, and others the Conspirators afore<g ref="char:EOLhyphen"/>said, against our Soveraign Lord the King, His Crown and Dignity, and against the Laws and Statutes of this Kingdom.</p>
+            <p>Of all which Treasons, Crimes, and Offences, the Kinghts Citizens and Burgesses in Parliament assembled, do in the Name of themselves, and of the Commons of <hi>England,</hi> Impeach the said <hi>William</hi> Earl of <hi>Powis, Wil<g ref="char:EOLhyphen"/>liam</hi> Viscount <hi>Stafford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellasis</hi> and every of them.</p>
+            <p>And the said Commons by Protestation, saving to themselves that liberty of exhibiting at any time here<g ref="char:EOLhyphen"/>after any other Accusations or Impeachments against the said <hi>William</hi> Earl of <hi>Powis, William</hi> Viscount <hi>Stafford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellasis,</hi> and every of them, and also of replying to the Answers which they and every of them make to the Premises, or any of them, or to any other Accusation or Impeachment which shall be by them exhibited (as the cause according to course and proceedings of Parliament shall require) do pray that the said <hi>William</hi> Earl of <hi>Powis, William</hi> Viscount <hi>Stafford, Henry</hi> Lord <hi>Arundel</hi> of <hi>Wardour, William</hi> Lord <hi>Petre,</hi> and <hi>John</hi> Lord <hi>Bellasis,</hi> and every of them, may be put to answer all and every of the Prem<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ses, and that such Proceedings, Examinations, Tryals, and Judgments may be upon them, and every of them, had and used, as shall be agreeable to <hi>Law</hi> and Justice, and Course of Parliament.</p>
+            <p>R<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>solved that the said Articles be ingrossed.</p>
+         </div>
+         <div type="pardon">
+            <pb n="5" facs="tcp:50989:3"/>
+            <head>
+               <hi>The Pardon of</hi> Thomas <hi>Earl of</hi> Danby, <hi>with his Plea to the Articles of Impeachment, and other high Crimes and Misdemeanors,</hi> &amp;c. <hi>Exhibited against him,</hi> &amp;c.</head>
+            <p>
+               <hi>CHARLES</hi> the Second, by the Grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> King, Defender of the Faith, <hi>&amp;c.</hi> To all to whom these our Letters-pattents shall come, sendeth Greeting. Know ye, That We for divers good Causes and Considerations Us hereunto especially moving, have out of Our special Favour, certain Knowledge, and meer Motion of Our own, Pardoned, Remitted, and Released, and by these Presents for Us, Our Heirs, and Successors, do pardon, remit, and release to Our Well-beloved and Right-trusty Cosin and Counsellor, <hi>Thomas</hi> Earl of <hi>Danby,</hi> all, and all manner of Treasons, as well High Treason, as Misprisions of Treason, Insurrections, revealing of Councils, Misprisions, Confederations, Concealments, Neglects, Omissions, Offences, Crimes, Contempts, Misdeeds, and Transgressions whatsoever, by himself alone, or with any other person or persons, or by any other, or others, by the Command, Advice, Assent, Consent, or Procurement of the said <hi>Thomas</hi> Earl of <hi>Eanby,</hi> advised, commanded, attempted, done, performed, concealed, committed, or omitted, before the 27th day of <hi>February</hi> now last past; although the Premises, or any of them touch, or may touch Our Person, or Our publick Negotiations whatsoever, or Our Transactions with Foreign Embassadors un<g ref="char:EOLhyphen"/>to Us sent; or for not right following Our Instructions and Mandates to Our own Embassadors resident on Our behalf in foreign parts beyond the Seas: And also all and singular Accessaries to the Premises, or any of them, al<g ref="char:EOLhyphen"/>though the said <hi>Thomas</hi> Earl of <hi>Danby</hi> be Indicted, Impeached, Appealed, Arrested, Convict, Adjudged, or as Em<g ref="char:EOLhyphen"/>bassador Condemned, or be, or be not attainted of the premises, or any of them; And all and every Indictments, Impeachments, Inquisitions, Informations, Judgements to be required, Attainders, Outlawries, Convictions, Pe<g ref="char:EOLhyphen"/>nalties of death, corporal punishments, Imprisonments, Forfeitures, Sufferings, together with all other pains and penalties whatsoever, for the same, or any of them; and all, and all manner of Suits, Complaints, Impeachments, and Demands whatsoever, which We against the said <hi>Thomas</hi> Earl of <hi>Danby,</hi> by reason of the premises, or any of them, have had, now have, or hereafter may have, or which Our Heirs or Successors in any manner may have hereafter; together with any Suit for breach of Our peace, which to Us, Our Heirs or Successors, against the said <hi>Thomas</hi> Earl of <hi>Danby</hi> doth or may belong, by reason or occasion of the premises, or some or any of them, We do for ever Indemnifie him. Moreover, We give and grant by these presents, and it is Our further will and pleasure, that these Our Letters, and this Our Pardon, Remission and Release therein contained, as to all and sin<g ref="char:EOLhyphen"/>gular the things above pardoned, remitted, and released, be, and shall be good and effectual in Law, although the Treasons, High-Treasons, Misprisions of Treasons, Insurrections, Rebellions, Felonies, Extortions, Oppressions, betraying of Counsels, Confederacies, Concealments, Negligences, Omissions, Offences, Crimes, Contempts, Mis<g ref="char:EOLhyphen"/>demeanors, and Transgressions aforesaid, be not fully specifi'd. And notwithstanding the Statute of <hi>Richard</hi> the second late of <hi>England</hi> King, in the 13 year of his Reign made and provided. And notwithstanding the Sta<g ref="char:EOLhyphen"/>tute by the Parliament of <hi>Edward</hi> the third late King of <hi>England,</hi> in the 14 year of his Reign made and provi<g ref="char:EOLhyphen"/>ded; or any other Statute, Act, or Ordinance to the contrary heretofore published and provided. And more<g ref="char:EOLhyphen"/>over, of Our abundant Grace, We do strictly command all Judges, Justices, or others whosoever, that this pre<g ref="char:EOLhyphen"/>sent Letter, with Our general Pardon, and general words, clauses and sentences abovesaid, shall be construed, ex<g ref="char:EOLhyphen"/>pounded, and adjudged, in all our Courts, and elsewhere, in the most beneficial, most ample, and most favourable sence, and for the greatest and firmest discharge of the aforesaid <hi>Thomas</hi> Earl of <hi>Danby,</hi> of, and from the Crimes and Offences aforesaid, according to Our true intention, and in so beneficial a manner and form, and to all in<g ref="char:EOLhyphen"/>tents and purposes, so as if the said Treasons, High-Treasons, Misprisions of Treason, Crimes, Offences, Omissions, Contempts, Concealments, Negligence, and Transgressions aforesaid, and other the premises, had been by apt, express, and special words, pardoned, remitted, and released. And that these Letters-patents, Remission, Re<g ref="char:EOLhyphen"/>lease and Pardon, with all things therein contain'd, in whatsoever Courts, and before whatsoever Our Justices, shall be pleaded and allowed, without any Writ of Allowance: Any thing, cause, or matter whatsoever, in any wise notwithstanding. In witness whereof, We have caused these Our Letters-patents to be made. Witness Our Self at <hi>Westminster</hi> the first day of <hi>March,</hi> in the 31 year of Our Reign.</p>
+         </div>
+         <div type="plea">
+            <head>
+               <hi>The Plea of the Earl of</hi> Danby, <hi>late Lord High Treasurer of</hi> England, <hi>to the Articles of Impeach<g ref="char:EOLhyphen"/>ment, and other high Crimes, and Misdemeanours, and Offences, Exhibited against him, by the name of</hi> Thomas <hi>Earl of</hi> Danby, <hi>Lord High Treasurer of</hi> England.</head>
+            <p>THe said Earl for Plea saith, and humbly offereth to your Lordships, as to all and every the Treasons, Crimes, Misdemeanors and Offences contained or mentioned in the said Articles; That after the said Articles exhi<g ref="char:EOLhyphen"/>bited, namely the first of <hi>March</hi> now last past, the Kings most Excellent Majestie, by His most gracious Letters-patents of Pardon under His Great Seal of <hi>England,</hi> bearing date at <hi>Westminster</hi> the said first day of <hi>March</hi> in the One and thirtieth year of His Majesties Reign, and here into this most High and Honourable Court produced under the said Great Seal, of His special grace, certain knowledge, and meer motion, hath Pardoned, Remised, and Released to him the said <hi>Thomas</hi> Earl of <hi>Danby</hi> all and all manner of Treasons, Misprisions of Treasons, In<g ref="char:EOLhyphen"/>surrections, Rebellions, Felonies, Exactions, Oppressions, publications of words, Misprisions, Confederacies, Con<g ref="char:EOLhyphen"/>cealments, Negligences, Omissions, Offences, Crimes, Contempts, Misdemeanours and Trespasses whatsoever, by himself alone, or with any other person or persons; or by other, by the command, advice, assent, consent, or pro<g ref="char:EOLhyphen"/>curement of him the said <hi>Tho.</hi> E. of <hi>D.</hi> advised, committed, attempted, made, perpetrated, concealed, committed or omitted, before the 27 day of <hi>Febr.</hi> then and now last past, being also after the time of the said Articles exhi<g ref="char:EOLhyphen"/>bited, although the said premises, or any of them, did or should touch or concern the person of his said Majestie, or any of His publike Negotiations whatsoever, and also His Majesties affairs with foreign Ambassadours sent to
+<pb n="6" facs="tcp:50989:4"/> His said Majestie; or by not rightly prosecuting His Majesties Instructions and Commands to His Ambassadours re<g ref="char:EOLhyphen"/>siding on His Majesties behalf in foreign parts; and as to all and singular Accessaries to the said premises, and every of them, although he the said <hi>Thomas</hi> Earl of <hi>Danby</hi> were, or were not of the said premises, or any of them indicted, impeached, appealed, accused, convicted, adjudged, out-law'd, condemned, or attainted; and all and singular Indictments, Impeachments, Inquisitions, Informations, Exigents, Judgments, Attainders, Outlaries, Convictions, pains of Death, Corporal punishments, Imprisonments, Forfeitures, Punishments, and all other Pains and Penalties whatsoever, for the same, or any of them; and all, and all manner of Suits, Complaints, Impeach<g ref="char:EOLhyphen"/>ments, and Demands whatsoever, which His said Majesty by reason of the premises, or any of them then had, or for the future should have, or his Heirs or Successors any way could have afterwards against him the said <hi>Thomas</hi> Earl of <hi>Danby;</hi> And also Suit of His Majesties Peace, and whatsoever to his Majesty, his Heirs, or Successors, a<g ref="char:EOLhyphen"/>gainst him the said Earl of <hi>Danby,</hi> did or could belong, by reason or occasion of the premises, or any of them. And His Majesty hath thereby given and granted his firm Peace to the said <hi>Thomas</hi> Earl of <hi>Danby.</hi> And further, His Majesty willed and granted, that the said Letters-patents, and the said Pardon and Release therein contained, as to all the things therein pardoned and released, should be good and effectual in the Law, although the Trea<g ref="char:EOLhyphen"/>sons, Misprisions, of Treasons, Insurrections, Rebellions, Felonies, Exactions, Oppressions, publications of Words, Misprisions of Confederacies, Concealments, Negligences, Omissions, Offences, Crimes, Contempts, Misdemeanours, and Trespasses, were not certainly specified. And notwithstanding the Statute in the Parliament of the Lord <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> the 2d. late King of <hi>England,</hi> in the 13th year of his Reign made and provided. And notwithstanding the Statute in the Parliament of the Lord <hi>Edward</hi> the 3d. in the 14th year of his Reign made and provided; or any other Statute, Act, or Ordinance to the contrary thereof made and provided. And moreover, His said now Ma<g ref="char:EOLhyphen"/>jesty by His said Letters-patents, of his further Grace, did firmly command all and singular Judges, Justices, Officers, and others whomsoever, That the said free and general Pardon of His said Majesty, and the general Words, Clau<g ref="char:EOLhyphen"/>ses, and Sentences abovesaid, should be construed, expounded, and adjudged in all His said Majesties Courts, and elsewhere, in the most beneficial, ample, and benign sence.</p>
+            <p>And for the better and more firm Discharge of the said Earl, of, and from the Crimes and Offences aforesaid, according to the true intents of His Majesty, and in such beneficial manner and form, to all intents and purposes whatsoever, as if the said Treasons, Crimes, Offences, Concealments, Negligences, Omissions, Contempts, and Trespasses aforesaid, and other the said premises, by apt, express, and special Words had been remitted, released, and pardoned. And that the said Letters-patents of Pardon, and the Release and Pardon therein contained, shall be pleaded and allowed in all and every His Majesties Courts, and before all His Justices whatsoever, without any Writ of Allowance; any matter, cause, or thing whatsoever in any ways notwithstanding; as by the said Letters<g ref="char:EOLhyphen"/>patents themselves more at large appeareth: which said Letters-patents follow in these words:</p>
+            <p>
+               <hi>CAROLƲS Secundus Dei Gratia</hi> Angliae, Scotiae, Franciae, <hi>&amp;</hi> Hiberniae, <hi>Rex, Fidei Defensor, &amp;c. Omnibus ad quos praesentes literae nostrae pervenerint, Salutem. Sciatis Quod Nos pro diversis bonis causis &amp; considerationibus nos ad hoc specialiter movent, de Gratia Nostra speciali, ac ex certa scientia, &amp; mero motu Nostris, Pardonavimus &amp; Relaxavimus, &amp;c.</hi>
+            </p>
+            <p>And the said Earl doth aver, That he the said <hi>Thomas</hi> Earl of <hi>Danby,</hi> in the said Articles named, is the said <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> Earl of <hi>Danby</hi> in the said Letters-patents of pardon here produced likewise named. Which Pardon the said Earl doth rely upon, and pleaded the same in Bar of the said Impeachment, and in discharge of all the Treasons, Crimes, Misdemeanours, and Offences contained or mentioned in the said Articles of Impeachment, and every of them: And this the said Earl is ready to aver.</p>
+            <p>Whereupon he humbly prays the Judgments of your Lordships, and that His Majesty's most gracious Pardon a<g ref="char:EOLhyphen"/>foresaid may be allowed. And that he the said Earl by virtue hereof, may be (from all the said Articles of Impeachment, and all and every of the Treasons and Crimes therein alleadged against him) acquitted and discharged.</p>
+         </div>
+         <div type="articles_of_impeachment">
+            <head>
+               <hi>Articles of Impeachment of High-Treason, and other high Crimes, Misdemeanours, and Offences, against</hi> Thomas <hi>Earl of</hi> DANBY <hi>Lord High Treasurer of</hi> England; <hi>as they were delivered in to the House of Lords in the Name of the Commons of</hi> England, <hi>by Sir</hi> Henry Capel, De<g ref="char:EOLhyphen"/>cember 23. 1678. <hi>Together with a Letter of the Lord Treasurers to Mr.</hi> Montague, <hi>late Embassadour in</hi> France.</head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>THat he hath Traiterously encroacht to himself Regal power, by treating in matters of Peace and War with foreign Ministers and Embassadours, and giving Instructions to His Majesties Embassadours abroad, without communicating the same to the Secretaries of State, and the rest of his Majesties Council, against the express Declaration of His Majesty and his Parliament, thereby intentending to defeat and overthrow the provision that has been deliberately made by His Majesty and his Parliament for the safety and preservation of His Majesties Kingdoms and Dominions.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That he hath Traiterously endeavoured to subvert the Ancient and well-established Form of Government in this Kingdom, and instead thereof, to introduce an Arbitrary and Tyrannical way of Government: and the better to effect this his purpose, he did design the raising of an Army, upon pretence of a War against the <hi>French</hi> King and to continue the same as a Standing Army within this Kingdom; and an Army being so raised, and no War ensuing, an Act of Parliament having past to pay and disband the same, and a great sum of money being granted
+<pb n="7" facs="tcp:50989:4"/> for that end, he did continue the Army, contrary to the said Act, and mis-employed the said Money given for the disbanding, to the continuance thereof, and Issued out of His Majesties Revenues great sums of money for the said purpose, and wilfully neglected to take Security of the Pay-masters of the Army, as the said Act required; whereby the said Law is eluded, and the Army is yet continued, to the great danger and unnecessary charge of His Majesty and the whole Kingdom.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>That he Traiterously intending and designing to alienate the hearts and affections of His Majesties good Sub<g ref="char:EOLhyphen"/>jects from His Royal Person and Government, and to hinder the meeting of Parliaments, and to deprive His Sa<g ref="char:EOLhyphen"/>cred Majesty of their safe and wholsom Counsel, and thereby to alter the Constitution of the Government of this Kingdom, did propose and negotiate a Peace for the <hi>French</hi> King, upon tearms disadvantageous to the Interest of His Majesty and His Kingdoms; for the doing whereof, he did endeavour to procure a great sum of money from the <hi>French</hi> King, for enabling him to maintain and carry on his said Traiterous designs and purposes, to the hazard of His Majesties Person and Government.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>That he is Popishly affected, and hath Traiterously concealed (after he had notice) the late horrid and bloody Plot and Conspiracy, contrived by the Papists against His Majesties Person and Government: and hath supprest the Evidence, and reproachfully discountenanced the Kings Witnesses in the Discovery of it, in favour of Popery, immediately tending to the destruction of the Kings Sacred Person, and the Subversion of the Protestant Religion.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V.</head>
+               <p>That he hath wasted the Kings Treasure, by Issuing out of His Majesties Exchequer several Branches of His Re<g ref="char:EOLhyphen"/>venue, for unnecessary Pensions, and Secret Services, to the value of 231602 <hi>l.</hi> within two years; and that he hath wholly diverted out of the known Method and Government of the Exchequer, one whole Branch of His Ma<g ref="char:EOLhyphen"/>jesties Revenue to private Uses, without any Account to be made of it to His Majesty in His Exchequer, contrary to the express Act of Parliament which granted the same; and he hath removed two of His Majesties Commis<g ref="char:EOLhyphen"/>sioners of that part of the Revenue, for refusing to consent to such his unwarrantable actings therein, and to ad<g ref="char:EOLhyphen"/>vance money upon that Branch of the Revenue for private Uses.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>That he hath by Indirect means procured from His Majesty to himself, divers considerable Gifts and Grants of Inheritance of the Antient Revenue of the Crown, even contrary to Acts of Parliament.</p>
+            </div>
+            <div type="summary">
+               <p>For which matters and things, the Knights, Citizens and Burgesses of the Commons in Parliament, do in the name of themselves, and of all the Commons of <hi>England,</hi> Impeach the said <hi>Thomas</hi> Earl of <hi>Danby,</hi> Lord High Treasurer of <hi>England,</hi> of HIGH-TREASON, and other high Crimes, Misdemeanours, and Offences, in the said Articles contained: And the said Commons by Protestation, saving to themselves the liberty of exhibiting at any time hereafter any other Accusation or Impeachment against the said Earl, and also of Replying to the An<g ref="char:EOLhyphen"/>swers, which the said <hi>Thomas</hi> Earl of <hi>Danby</hi> shall make to the Premises, or any of them, or any Impeachment or Accusation that shall be by them Exhibited, as the Cause (according to Course and Proceedings of Parliament) shall require; Do pray that the said <hi>Thomas</hi> Earl of <hi>Danby</hi> may be put to answer all and every the Premises, that such Proceedings, Trials, Examinations and Judgments may be upon them, and every one of them, had and used, as shall be agreeable to Law and Justice, and that he may be sequestred from Parliament, and forthwith commit<g ref="char:EOLhyphen"/>ted to safe Custody.</p>
+            </div>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>The Lord Treasurers Letter to Mr.</hi> Montague, <hi>the</hi> KINGS <hi>late Embassador in</hi> France, March 25. 1678.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>SInce my writing to you by Mr. <hi>Brisban,</hi> the Resolves have been altered as to the sending you Instructions (as yet) for the proposing any thing to the <hi>French</hi> King: for the Particulars which will be consented to on the part of the Confederates, (and of which this is a Copy) will be communicated to you by Mr. Secretary <hi>Coventry;</hi> but you will have no other direction from him about them, but onely thereby to be enabled to find the Pulse of the King or his Ministers, at least against the time that you shall receive Orders to make the Proposals to him. That you may know from whence the nicety of that Affair proceeds, it is necessary to inform you, <hi>That for fear of its being ill resented by the Parliament here,</hi> the King will not make any Proposal at all of Peace, unless he shall be prest to it by the Confederates: And although by Mr. <hi>Godolphin,</hi> he is sufficiently informed, that they desire a Peace upon the Articles sent you by the Secretary, yet not having received that desire formally, the Council will not advise His Majesty to let His Embassador propose that which he is not formally impowred to make good; and so by staying for that formal Power, which by Letter His Majesty is sufficiently enabled to propose, the time will be lost for effecting the Peace, if at all it can be had. To supply this defect then, and to prevent the Kings sending again into <hi>Holland</hi> before he know the mind of <hi>France,</hi> I am commanded by His Majesty to let you know, that you are to make the <hi>Propositions</hi> inclosed to the King of <hi>France,</hi> and to tell him, the King will undertake for the seeing them made good on the part of <hi>Spain</hi> and <hi>Holland,</hi> in case they shall be accepted by him. <hi>And in your Answer you must write the same thing to the Secretaries, by way onely of having felt the King of</hi> France <hi>his Pulse, which you must do to the King as a full Answer from the King of</hi> France, <hi>and such an one as His Majesty may depend upon, whatever that shall be.</hi> For the more dextrous management of this Affair, the King is advised to shew these Propositions to <hi>Monsieur Berrillon,</hi> but not to give him a Copy; so that by the strength of memory it is expected he shall write to his Master, and by that means only are we to hope for an answer to a matter of this vast impor<g ref="char:EOLhyphen"/>tance and consequence. You may imagine what a satisfaction we are like to reap from it when it comes. I
+<pb n="8" facs="tcp:50989:5"/> doubt not but by your Conduct, it will be brought to a speedy issue, which is of as great importance as the thing it self, there being no Condition worse for His Majesty, than his standing unresolved betwixt Peace and War. I find by <hi>Monsieur Berrillon,</hi> That it is like some places which are dependances upon greater Towns may be de<g ref="char:EOLhyphen"/>manded by the King of <hi>France;</hi> but if he intend a Peace, (which you will do very well to know his mind fully in) you may justly say, that you hope he will neither stand upon one single place; though a Fortified one, nor upon any place unfortifyed, which is a dependant upon those which are to be restored to <hi>Spain.</hi> And if any thing shall be moved about <hi>Sicily</hi> to remain in the <hi>French</hi> hands until the Peace of <hi>Sweden</hi> be concluded, you are onely to say, that you are not impowred to say any thing upon it: and you are confident the King hath done all he could to get the utmost conditions that would be consented to: Onely you are to say, the King hath again sent about <hi>Conde,</hi> not being well satisfied that they have not left in his power to give or refuse as he should have found it convenient, and hopeth still for some good Answer. <hi>In case the Conditions of Peace shall be accepted, the King ex<g ref="char:EOLhyphen"/>pects to have six Millions of Livres yearly, for three years, from the time that this Agreement shall be signed between His Majesty and the King of</hi> France: <hi>Because it will be two or three years before He can hope to find His Parliament in humour to give him Supplies, after the having made any Peace with</hi> France.</p>
+            <p>
+               <hi>The Embassador here hath agreed to the sum, but not for so long a time.</hi> If you find the Peace will not be accep<g ref="char:EOLhyphen"/>ted, you are not to mention the money at all. And all possible care must be taken to have this whole Negoti<g ref="char:EOLhyphen"/>ation as private as possible, for fear of giving offence at home, when for the most part we hear in ten days af<g ref="char:EOLhyphen"/>ter, any thing that is communicated to the <hi>French Ministers.</hi> I must again repeat to you; that whatsoever you write on this Subject to the Secretary, <hi>(to whom you must not mention one syllable of the money)</hi> you must say onely as a thing you believe they will consent to, if you had power formally to make these demands. Pray inform your self of the bottom of what is to be expected from <hi>France,</hi> and assure them that you believe this will be the last time that you shall receive any Propositions of a Peace, if these be slighted, as indeed I believe it will, so that you may take your own Measures as well as the Kings upon it. I am</p>
+            <closer>
+               <signed>Your Excellencies most faithful and obedient Servant, <hi>DANBY.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 25. 78.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>Now let it be noted, that this very Letter was writ by the</hi> Treasurer, <hi>in that very</hi> Session <hi>in the beginning whereof, (the better to perswade the</hi> Parliament <hi>that our Court did really intend to make a War against</hi> France) <hi>he caused to be written and published a Book entituled.</hi> Christianissimus Christianandus, <hi>in which he renders the</hi> French King <hi>as black as HELL it self. And after he had (by this and such like fallacies) prevailed with the</hi> Parliament <hi>to give money to raise so great a</hi> Naval <hi>and</hi> Land-Force, <hi>to make an actual War with</hi> France, <hi>(as the</hi> Title <hi>and</hi> Body <hi>of the</hi> Poll-Bill <hi>de<g ref="char:EOLhyphen"/>clares) He doth, as you see, but five days after the passing the same, in a</hi> clandestine way, <hi>(though to the violating the</hi> Roy<g ref="char:EOLhyphen"/>al Word <hi>and</hi> Faith of the <hi>Nation) labour to strike up a</hi> Peace, <hi>and obtain such vast sums of money from the</hi> French King, <hi>(whom he thought the terrour of our</hi> Arms <hi>would now oblige to grant any thing) as he might thereby be enabled to</hi> alter <hi>and change the Legal and Ancient</hi> Government <hi>of</hi> England, <hi>by laying aside</hi> Parliaments, <hi>(as ill-humoured things) and introducing an absolute power, by a fixed</hi> standing Army.</p>
+            <p>How well this man hath <hi>deserved</hi> of his <hi>Country,</hi> and whether the Justice of the <hi>Nation</hi> can be satisfied till he be made as great an Example in <hi>Punishment,</hi> as he hath been in <hi>Mischief,</hi> let all men judge.</p>
+         </div>
+         <div type="resolution">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Jovis</hi> 20 <hi>die Martii,</hi> 1678.</date>
+               </dateline>
+            </opener>
+            <p>Resolved, <hi>Nemine contradicente,</hi> That a Message be sent to the Lords, to put them in mind of the Impeachment of High-Treason exhibited against <hi>Thomas</hi> Earl of <hi>Danby,</hi> in the name of the Commons of <hi>England,</hi> and to de<g ref="char:EOLhyphen"/>sire that he may be forthwith committed to safe custody.</p>
+            <p>Resolved, <hi>&amp;c.</hi> That it be referred to the Committee of Secrecy, to draw up farther Articles against <hi>Thomas</hi> Earl of <hi>Danby.</hi>
+            </p>
+         </div>
+         <div type="resolution">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Sabbati</hi> 22 <hi>die Martii,</hi> 1678.</date>
+               </dateline>
+            </opener>
+            <p>Resolved, <hi>Nemine contradicente,</hi> That a Message be immediately sent to the Lords, to re-mind their Lordships of the last Message sent from this House, relating to <hi>Thomas</hi> Earl of <hi>Danby;</hi> and to demand that <hi>Thomas</hi> Earl of <hi>Dan<g ref="char:EOLhyphen"/>by</hi> may be forthwith sequestred from Parliament, and committed to safe custody.</p>
+         </div>
+         <div type="resolution">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Martis</hi> 25 <hi>die Martii,</hi> 1679.</date>
+               </dateline>
+            </opener>
+            <p>A Message from the Lords by Baron <hi>Littleton</hi> and Baron <hi>Thurland.</hi>
+            </p>
+            <p>Mr. <hi>Speaker,</hi> We are commanded by the Lords to acquaint this House, that they sent to apprehend <hi>Thomas</hi> Earl of <hi>Danby,</hi> both to his House here in Town, and to his House at <hi>Wimbolton;</hi> and that the Gentleman-Usher of the Black Rod had returned their Lordships answer, that he could not be found.</p>
+         </div>
+         <div type="resolution">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Veneris</hi> 4 <hi>die Aprilis,</hi> 1679.</date>
+               </dateline>
+            </opener>
+            <p>Resolved, That an humble Address be made to His Majesty, to desire His Majesty to issue out His Royal Pro<g ref="char:EOLhyphen"/>clamation for the apprehending <hi>Thomas</hi> Earl of <hi>Danby,</hi> with the usual Penalties upon such as shall conceal him: and that His Majesty will be further pleased to give order to the Officers of His Majesties Houshold, that they take care that the said Earl of <hi>Danby</hi> be not permitted to reside within either of His Majesties Palaces of <hi>White-hall, Somerset-house,</hi> and St. <hi>James</hi>'s. And it is referred to Mr. <hi>Powel, &amp;c.</hi> to prepare and draw up the same, and pre<g ref="char:EOLhyphen"/>sent it to the House to morrow morning.</p>
+         </div>
+         <div type="account">
+            <pb n="9" facs="tcp:50989:5"/>
+            <head>THE Reasons &amp; Narrative OF PROCEEDINGS BETWIXT The Two Houses: Which were delivered by the House of <hi>Commons,</hi> To the LORDS, At the Conference touching the Tryal of the Lords in the <hi>Tower.</hi> On <hi>Monday</hi> the <hi>26th</hi> of <hi>May,</hi> 1679.</head>
+            <p>THe Commons have alwayes desired, that a good Correspondence may be preserved be<g ref="char:EOLhyphen"/>tween the Two Houses.</p>
+            <p>There is now depending between your Lordships and the Commons, a Matter of the greatest Weight: In the Transactions of which, your Lordships seem to appre<g ref="char:EOLhyphen"/>hend some Difficulty in the Matters proposed by the Commons.</p>
+            <p>To clear this, the Commons have desired this Conference; and by it, they hope to mani<g ref="char:EOLhyphen"/>fest to your Lordships, that the Propositions of the House of Commons, made by their Com<g ref="char:EOLhyphen"/>mittee, in relation to the Tryal of the Lords in the <hi>Tower,</hi> have been onely such as are well warranted by the Laws of the Parliament, and Constitutions of the Government, and in no sort intrench upon the Judicature of the Peers; but are most necessary to be insisted upon, that the Antient Rights of Judicature in Parliament may be maintained.</p>
+            <p>The Commons readily acknowledge, that the Crimes charged upon the Earl of <hi>Powis,</hi> Vis<g ref="char:EOLhyphen"/>count <hi>Stafford,</hi> Lord <hi>Petre,</hi> Lord <hi>Arundel</hi> of <hi>Wardour,</hi> and Lord <hi>Bellasis,</hi> are of deep Guilt, and call for speedy Justice: But withall, they hold, That any Change in Judicature in Parlia<g ref="char:EOLhyphen"/>ment, made without Consent in full Parliament, to be of pernicious Consequence, both to his Majesty, and his Subjects; and conceive themselves obliged to transmit to their Posterity, all the Rights which of this kind they have received from their Ancestors, by putting your Lord<g ref="char:EOLhyphen"/>ships in mind of the Progress that has already been between the Two Houses, in relation to the Propositions made by the Commons, and the Reasonableness of the Propositions themselves: They doubt not to make it appear, that their Aim has been no other, than to avoid such Con<g ref="char:EOLhyphen"/>sequences, and preserve that Right; and that there is no delay of Justice on their Part. And to that end, do offer to your Lordships the ensuing Reasons and Narrative: That the Com<g ref="char:EOLhyphen"/>mons in bringing the Earl of <hi>Danby</hi> to Justice, and in discovery of that Execrable and Traite<g ref="char:EOLhyphen"/>rous Conspiracy, (of which the five <hi>Popish</hi> Lords now stand impeached; and for which some of their wicked Accomplices have already undergone the Sentence of the Law, as Traytors and Murtherers) have laboured under many great Difficulties, is not unknown to your Lordships.</p>
+            <pb n="10" facs="tcp:50989:6"/>
+            <p> Nor is it less known to your Lordships, That upon the Impeachment of the House of Com<g ref="char:EOLhyphen"/>mons, against the Earl of <hi>Danby</hi> for High Treason, and other High Crimes, Misdemeanors, and Offences, even the Common Justice of sequestring him from Parliament and forthwith Committing him to safe Custody, was then required by the Commons, and denyed by the House of Peers, though he then Sate in their House: of which, your Lordships have been so sensible, that at a free Conference the Tenth of <hi>April</hi> last, your Lordships declared, That it was the Right of the Commons, and well warranted by Presidents of former Ages; That up<g ref="char:EOLhyphen"/>on an Impeachment of the Commons, a Peer so Impeached, ought of Right to be ordered to with-draw, and then to be Committed. And had not that Justice been denyed to the Com<g ref="char:EOLhyphen"/>mons, a great part of this Session of Parliament, which hath been spent in framing and adjust<g ref="char:EOLhyphen"/>ing a Bill, for causing the Earl of <hi>Danby</hi> to appear, and answer that Justice from which he was fled; had been saved, and had been imployed for the Preservation of His Majesties Per<g ref="char:EOLhyphen"/>son, and the Security of the Nation, and in Prosecution of the other five Lords. Neither had he had the Opportunity for procuring for himself that Illegal Pardon, which bears date the First of <hi>March</hi> last past, and which he hath now pleaded in Bar of his Impeachment: Nor of wasting so great a proportion of the Treasure of the Kingdom, as he hath done, since the Com<g ref="char:EOLhyphen"/>mons exhibited their Articles of Impeachment against him.</p>
+            <p>After which time thus lost by reason of the Denyal of that Justice, which of right belonged to the Commons upon their Impeachment, the said Bill being ready for the Royal Assent, the said Earl then rendred himself; and by your Lordships Order of the Sixteenth of <hi>April</hi> last, was Committed to the <hi>Tower.</hi> After which, he pleads the said Pardon; and being prest, did at length declare, He would rely upon, and abide by that Plea; which Pardon pleaded, being illegal and voyd, and so ought not to bar, or preclude the Commons from having Justice up<g ref="char:EOLhyphen"/>on the Impeachment. They did thereupon, with their Speaker, on the Fifth of <hi>May</hi> instant, in the Name of Themselves, and all the Commons of <hi>England,</hi> demand Judgment against the said Earl, upon their Impeachment: Not doubting, but that your Lordships did intend in all your Proceedings upon the Impeachment, to follow the usual Course and Method of Parliament.</p>
+            <p>But the Commons were not a little surprized by the Message from your Lordships, delive<g ref="char:EOLhyphen"/>red them on the Seventh of <hi>May;</hi> thereby acquainting them, That as well the Lords Spiri<g ref="char:EOLhyphen"/>tual as Temporal, had ordered, that the Tenth of <hi>May</hi> instant, should be the Day for hear<g ref="char:EOLhyphen"/>ing the Earl of <hi>Danby,</hi> to make good his Plea of Pardon. And that on the Thirteenth of <hi>May,</hi> the other Five Lords Impeached, should be brought to their Tryal: And that your Lordships had addressed to His Majesty, for naming of a Lord High Steward, as well in the Case of the Earl of <hi>Danby,</hi> as the other five Lords.</p>
+            <p>Upon consideration of this Message, the Commons found, that the admitting of the Lords Spiritual to exercise Jurisdiction in these Cases, was an Alteration of the Judicature in Par<g ref="char:EOLhyphen"/>liament; and which extended as well to the Proceeding against the Five Lords, as the Earl of <hi>Danby.</hi> And that if a Lord High-Steward should be necessary upon Tryal on Impeachments of the Commons the Power of Judicature in Parliament, upon Impeachments, might be defeated, by suspending or denying a Commission to Constitute a Lord High-Steward.</p>
+            <p>And that the said days of Tryal appointed by your Lordships, were so near to the time of your said Message, that these Matters, and the Method of proceeding upon the Tryal, could not be adjusted by Conference betwixt the Two Houses, before the Day so nominated. And consequently the Commons could not then proceed to Tryal, unless the zeal which they have for speedy Judgment against the Earl of <hi>Danby,</hi> (that so they might proceed to Tryal of the other Five Lords) should induce them at this Juncture, both to admit the inlargement of your Lordships Jurisdiction, and to sit down under these or any Hardships, though with the hazard of all the Commons Power of Impeaching for time to come) rather than the Tryal of the said Five Lords should be deferred for some short time, whilst these matters might be agreed on and setled.</p>
+            <p>For reconciling Differences in these great and weighty Matters, and for saving that time which would necessarily have been spent in Debates and Conferences betwixt the two Hou<g ref="char:EOLhyphen"/>ses, and for expediting the Tryal, without giving up the Power of Impeachment, or ren<g ref="char:EOLhyphen"/>dring them ineffectual.</p>
+            <p>The Commons thought fit to propose to your Lordships, that a Committee of both Hou<g ref="char:EOLhyphen"/>ses might be appointed for this purpose. At which Committee (when agreed to by your Lord<g ref="char:EOLhyphen"/>ships,) it was first proposed, that the time of Tryal of the Lords in the Tower should be put off till the other Matters were adjusted, and it was then agreed, that the Proposition as to the time of the Tryal, should be the last thing considered. And the effect of this Agreement stands reported upon your Lordships Books.</p>
+            <p>After which, the Commons communicated to your Lordships, by your Committee; a Vote of theirs, <hi>(viz.)</hi> That the Committee of the Commons should insist upon their former Vote of
+<pb n="11" facs="tcp:50989:6"/> their House, That the Lords Spiritual ought not to have any Vote in any Proceedings against the Lords in the Tower, and that when that Matter should be setled, and the Method of Pro<g ref="char:EOLhyphen"/>ceedings adjusted, the Commons would then be ready to proceed upon the Tryal of the Par<g ref="char:EOLhyphen"/>don of the Earl of <hi>Danby,</hi> against whom they had before demanded Judgment, and after<g ref="char:EOLhyphen"/>wards to the Tryal of the other Five Lords in the Tower. Which Vote extended as well to the Earl of <hi>Danby,</hi> as the other Five Lords; but the Commons as yet received nothing from your Lordships towards an Answer of that Vote, save that your Lordships have acquainted them, that the Bishops have asked leave of the House of Peers, that they might withdraw themselves from the Tryal of the said Five Lords, with liberty of entring their usual pro<g ref="char:EOLhyphen"/>testation.</p>
+            <p>And though the Commons Committee have almost daily declared to your Lordships Com<g ref="char:EOLhyphen"/>mittee, that that was a necessary point of Right to be setled before the Tryal, and offered to debate the same; your Committee always answered, that they had not any Power from your Lordships, either to confer upon, or to give any Answer concerning that Matter.</p>
+            <p>And yet your Lordships, without having given the Commons any satisfactory Answer to the said Vote, or permitting any Conference or Debate thereupon, and contrary to the said Agreement, did on Thursday the Twenty second of <hi>May,</hi> send a Message to the Commons, Declaring, That the Lords Spiritual as well as Temporal, had ordered that the Twenty Se<g ref="char:EOLhyphen"/>venth of this instant <hi>May</hi> be appointed for the Tryal of the Five Lords.</p>
+            <p>So that the Commons cannot but apprehend, that your Lordships have not onely departed from what was agreed on, and in effect laid aside that Committee which was constituted for preserving a good Understanding betwixt the Two Houses, and better dispatch of the weigh<g ref="char:EOLhyphen"/>ty Affairs now depending in Parliament: but must also needs conclude from the Message, and the Votes of your Lordships on the fourteenth of <hi>May;</hi> That the Lords Spiritual have a Right to stay and sit in Court, till the Court proceeds to the Vote of Guilty or not Guilty. And from the Bishops asking leave (as appears by your Lordships Books two days after your said Vote) that they might withdraw themselves from the Tryal of the said Lords, with liberty of en<g ref="char:EOLhyphen"/>tring their usual Protestation, &amp; by their persisting still to go on and give in their Votes Pro<g ref="char:EOLhyphen"/>ceedings upon the Impeachment; That their desire of leave to withdraw at the said Tryal, is onely an Evasive Answer to the before-mentioned Vote of the Commons, and chiefly inten<g ref="char:EOLhyphen"/>ded as an Argument for a Right of Judicature in Proceedings upon Impeachment, and as a Reserve to Judge upon the Earl of <hi>Danby</hi>'s Plea of Pardon, and upon these and other like Impeachments; although no such Power was ever claimed by their Predecessours, but is utterly denyed by the Commons. And the Commons are the rather induced to believe it so intended, because the very asking leave to withdraw, seems to imply a Right to be there, and that they cannot be absent without it.</p>
+            <p>And because by this way, they would have it in their Power, whether or no for the future, either in the Earl of <hi>Danby</hi>'s Case, or any other, they will ever ask leave to be absent; And the Temporal Lords a like power of denying leave, if that should once be admitted necessary.</p>
+            <p>
+               <hi>The Commons therefore are obliged not to proceed to the Tryal of the Lords on the Twenty Seventh of this instant</hi> May, <hi>but to adhere to their aforesaid Vote: And for their so doing, besides what hath been now and formerly by them said to your Lordships, do offer you these Reasons following</hi>
+            </p>
+            <div type="reasons">
+               <head>REASONS.</head>
+               <div n="1" type="reason">
+                  <head>I.</head>
+                  <p>BEcause your Lordships have received the Earl of <hi>Danby</hi>'s Plea of Pardon, with a very long and unusual Protestation; wherein he hath aspersed His Majesty by false Suggestions, as if His Majesty had Commanded or Countenanced the Crimes he stands charged with; and particularly suppressing and discouraging the Discovery of the Plot, and endeavouring to introduce an Arbitrary and Tyrannical way of Govern<g ref="char:EOLhyphen"/>ment: Which remains as a scandal upon Record against His Majesty, tending to render His Person and His Government odious to His People; against which it ought to be the first and principal care of both Houses to vindicate His Majesty, by doing justice upon the said Earl.</p>
+               </div>
+               <div n="2" type="reason">
+                  <pb n="12" facs="tcp:50989:7"/>
+                  <head>II.</head>
+                  <p>The setting up a Pardon to be a Bar of an Impeachment, defeats the whole use and effect of Impeachments; and should this point be admitted, or stand doubted, it would totally discourage the exhibiting any for the future: Whereby the chief Institution for the pre<g ref="char:EOLhyphen"/>servation of the Government, (and consequently the Government it self) would be de<g ref="char:EOLhyphen"/>stroyed. And therefore the Case of the said Earl, (which in consequence concerns all Im<g ref="char:EOLhyphen"/>peachments whatsoever) ought to be determined before that of the said Five Lords, which is but their particular Case.</p>
+                  <p>And without resorting to many Authorities of greater Antiquity: The Commons desire your Lordships to take notice, (with the same regard they do) of the Declaration which that Excellent Prince, King <hi>Charles</hi> the First of blessed Memory, made in this behalf, in His Answer to the Nineteen Propositions of both Houses of Parliament: Wherein, stating the several parts of this regulated Monarchy, he says: <hi>The King, the House of Lords, and the House of Commons, have each particular Priviledges:</hi> And among those which belong to the King, he reckons <hi>power of Pardoning.</hi> After the enumerating of which, and other his Prerogatives, His said Majesty adds thus: <hi>Again, That the Prince may not make use of this High and perpetual Power, to the hurt of those for whose good he hath it, and make use of the name of publick necessity, for the gain of his private Favourites and Followers, to the detriment of his people; The House of Commons, (an Excellent Conserver of Liberty,</hi> &amp;c.) <hi>is solely intrusted with the first Propositions concerning the Levies of Moneys, and the Impeaching of those, who, for their own ends, though countenanced by any surreptitiously-gotten Command of the King, have violated that Law, which he is bound (when he knows it) to protect, and to the protection of which they were bound to advise him, at least not to serve him in the contrary. And the Lords being trusted with a Judicatory Power, are an excellent skreen and bank between the Prince and People, to assist each against any Incroachments of the other; and by just Judgments to preserve that Law, which ought to be the Rule of every one of the three,</hi> &amp;c. <hi>Therefore the power legally placed in both Houses, is more than sufficient to prevent and restrain the power of Ty<g ref="char:EOLhyphen"/>ranny,</hi> &amp;c.</p>
+               </div>
+               <div n="3" type="reason">
+                  <head>III.</head>
+                  <p>Until the Commons of <hi>England</hi> have right done them against this Plea of Pardon, they may justly apprehend, that the whole Justice of the Kingdome, in the Case of the Five Lords, may be obstructed and defeated by Pardons of like nature.</p>
+               </div>
+               <div n="4" type="reason">
+                  <head>IV.</head>
+                  <p>An Impeachment is virtually the voice of every particular Subject of this Kingdome, crying out against an oppression, by which every Member of that Body is equally woun<g ref="char:EOLhyphen"/>ded: And it will prove a matter of ill Consequence, that the universality of the people should have occasion ministred and continued to them, to be apprehensive of utmost dan<g ref="char:EOLhyphen"/>ger from the Crown, from whence they of right expect protection.</p>
+               </div>
+               <div n="5" type="reason">
+                  <head>V.</head>
+                  <p>The Commons Exhibited Articles of Impeachment against the said Earl, before any against the Five other Lords, and demanded Judgment upon those Articles: Whereupon, your Lordships having appointed the Trial of the said Earl to be before that of the other Five Lords, Now your Lordships having since inverted that Order, gives a great cause of doubt to the House of Commons, and raises a jealousie in the Hearts of all the Commons of <hi>England,</hi> that, if they should proceed to the Tryal of the said Five Lords in the first place, not onely Justice will be obstructed in the Case of those Lords, but that they shall never have right done them in the matter of this Plea of Pardon; which is of so fatal consequence to the whole Kingdome, and a new de vice to frustrate publick Justice in Parliament.</p>
+               </div>
+               <div type="summary">
+                  <p>Which Reasons and Matters being duely weighed by your Lordships, the Commons doubt not but your Lordships will receive satisfaction concerning their Propositions and Proceedings: And will agree, That the Commons ought not, nor can, without deserting their Trust, depart from their former Vote communicated to your Lordships; <hi>That the Lords Spiritual ought not to have any Vote in any proceedings against the Lords in the</hi> Tower; <hi>and when that matter shall be setled, and the Methods of Proceedings adjusted, the Commons shall then be ready to proceed upon the Tryal of the Earl of</hi> Danby, <hi>(against whom they have already demanded Judgment) and afterwards to the Tryal of the other Five Lords in the</hi> Tower.</p>
+               </div>
+               <div type="disposition">
+                  <pb n="13" facs="tcp:50989:7"/>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>MAY</hi> 27. 1679.</date>
+                     </dateline>
+                  </opener>
+                  <p>The Narrative and Reasons delivered at the Conference yesterday with the House of Commons, were again read, and after a long debate, the Vote of this House, dated the 13th of <hi>May</hi> instant, and the Explanation thereupon, dated the <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4th instant, were read; and the Question was put, Whether to insist upon these Votes concerning the Lords Spiritual, <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd it was resolved in the Affirmative.</p>
+                  <list>
+                     <head>DISSENTERS present.</head>
+                     <item>
+                        <hi>Buckingham.</hi>
+                     </item>
+                     <item>
+                        <hi>Huntington.</hi>
+                     </item>
+                     <item>
+                        <hi>Kent.</hi>
+                     </item>
+                     <item>
+                        <hi>Shaftsbury,</hi> P. R.</item>
+                     <item>
+                        <hi>Bedford.</hi>
+                     </item>
+                     <item>
+                        <hi>Winchester.</hi>
+                     </item>
+                     <item>
+                        <hi>Rochester.</hi>
+                     </item>
+                     <item>
+                        <hi>North,</hi> and <hi>Grey.</hi>
+                     </item>
+                     <item>
+                        <hi>Suffolk.</hi>
+                     </item>
+                     <item>
+                        <hi>J. Lovelace.</hi>
+                     </item>
+                     <item>
+                        <hi>Townshend.</hi>
+                     </item>
+                     <item>
+                        <hi>Herbert.</hi>
+                     </item>
+                     <item>
+                        <hi>Gray.</hi>
+                     </item>
+                     <item>
+                        <hi>Stamford</hi>
+                     </item>
+                     <item>
+                        <hi>Newport.</hi>
+                     </item>
+                     <item>
+                        <hi>Say</hi> and <hi>Seal.</hi>
+                     </item>
+                     <item>
+                        <hi>P. Wharton.</hi>
+                     </item>
+                     <item>
+                        <hi>Leicester.</hi>
+                     </item>
+                     <item>
+                        <hi>Scarsdale.</hi>
+                     </item>
+                     <item>
+                        <hi>Stafford.</hi>
+                     </item>
+                     <item>
+                        <hi>Derby.</hi>
+                     </item>
+                     <item>
+                        <hi>Delamer.</hi>
+                     </item>
+                     <item>
+                        <hi>Howard.</hi>
+                     </item>
+                     <item>
+                        <hi>Paget.</hi>
+                     </item>
+                     <item>
+                        <hi>Clare.</hi>
+                     </item>
+                     <item>
+                        <hi>Salisbury.</hi>
+                     </item>
+                     <item>
+                        <hi>Falconberg.</hi>
+                     </item>
+                     <item>
+                        <hi>Windsor.</hi>
+                     </item>
+                  </list>
+               </div>
+            </div>
+         </div>
+         <div type="bill">
+            <head>A COPY of the BILL concerning the D. of <hi>YORK.</hi>
+            </head>
+            <p>FOrasmuch as these Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> by the wonderful Providence of Almighty God, many years since have been delivered from the slavery and superstition of <hi>Popery,</hi> which had despoiled the King of his Sove<g ref="char:EOLhyphen"/>reign Power, for that it did and doth advance the Pope of <hi>Rome</hi> to a Power over Sovereign Princes, and makes him Monarch of the Universe, and doth withdraw the Subjects from their Allegiance, by pretended Absolutions from all for<g ref="char:EOLhyphen"/>mer Oaths and Obligations to their Lawful Sovereign, and by many Superstitions and Immoralities hath quite subverted the Ends of the Christian Religion: But notwithstanding that <hi>Popery</hi> hath been long since Condemned by the Laws and States of this Realm, for the detestable Doctrine, and Trayterous Attempts of its Adherents, against the Lives of their lawful Sovereigns, Kings and Queens of these Realms, yet the Emissaries, Priests, and Agents for the Pope of <hi>Rome</hi> resorting into this Kingdom of <hi>England</hi> in great numbers, contrary to the known Laws thereof, have for several years last past, as well by their own devilish Acts and Policies, as by Counsel and Assistance of Foreign Princes and Prelates, known Enemies to these Nations, contrived and carried on a most Horrid and Execrable Conspiracy to destroy and murder the Person of his Sacred Majesty, and to subvert the Ancient Government of these Realms, and to extirpate the Protestant Religion, and Massacre the true Professors thereof. And for the better effecting their wicked Designes, and encouraging their Villainous Accomplices, they have Trayterously seduced <hi>James</hi> Duke of <hi>York,</hi> presumptive Heir of these Crowns, to the Communion of the Church of <hi>Rome,</hi> and have induced him to enter into several Negotiations with the Pope, his Cardinals, and Nuncios, for promoting the <hi>Romish</hi> Church and Interest; and by his means and pro<g ref="char:EOLhyphen"/>curement, have advanced the Power and Greatness of the <hi>French</hi> King, to the manifest hazard of these Kingdoms, That by the Descent of these Crowns upon a <hi>Papist,</hi> and by Foreign Alliances and Assistance, they may be able to succeed in their Wicked and Villanous Designes.</p>
+            <p>And forasmuch as the Parliaments of <hi>England,</hi> according to the Laws and Statutes thereof, have heretofore, for great and weighty Reasons of State, and for the Publick Good and Common Interest of this Kingdom, directed and limited the Succession of the Crown in other manner than of course it would otherwise have gone; but never had such im<g ref="char:EOLhyphen"/>portant and urgent Reasons, as at this time press and require their using of their said extraordinary Power in that be<g ref="char:EOLhyphen"/>half. Be it therefore Enacted by the King's Most Excellent Majesty, by, and with the Advice and Consent of the Lords Spiritual and Temporal, and the Commons in this Parliament Assembled, and by the Authority of the same; and it is hereby Enacted accordingly, That <hi>James</hi> Duke of <hi>York, Albany,</hi> and <hi>Ʋlster,</hi> (having departed openly from the Church of <hi>England,</hi> and having publickly Professed and Owned the <hi>Popish</hi> Religion, which hath notoriously given Birth and Life to the most Damnable and hellish Plot, by the most gracious providence of God lately brought to light) shall be excluded and disabled, and is hereby excluded and disabled for ever from possessing, having, holding, inheriting, or en<g ref="char:EOLhyphen"/>joying the Imperial Crowns and Governments of this Realm, and these Kingdoms, and of all Territories, Countries, and Dominions now, or which shall hereafter be under His Majesties Subjection; and of and from all Titles, Rights, Prerogatives, and Revenues with the said Crowns, now, or hereafter to be enjoyed: And that upon the demise or death of his Majesty, without Heirs of his Body, (whom God long preserve) the Crowns and Governments of these Kingdoms, and all Territories, Countries, and Dominions now, or which shall hereafter be under His Majesties Sub<g ref="char:EOLhyphen"/>jection, with all the Rights, Prerogaties, and Revenues therewith of Right enjoyed, and to be enjoyed, shall devolve and come upon such Person who shall be next Lawful Heir of the same, and who shall have always been truly and pro<g ref="char:EOLhyphen"/>fessedly of the Protestant Religion now established by Law within this Kingdom, as if the said Duke of <hi>York</hi> were actu<g ref="char:EOLhyphen"/>ally dead: And that whatever Acts of Soveraign Power the said Duke of <hi>York</hi> shall at any time Erect or Exercise, shall be taken, deemed, and adjudged, and are hereby declared and Enacted High Treason, and to be punished accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p>And forasmuch as the Peace, Safety, and Well-being of these Kingdoms do so intirely depend upon the due Execu<g ref="char:EOLhyphen"/>tion of, and Obedience to this Law, be it further Enacted by the Authority aforesaid, That if any Person shall in any wise, at any time, during the King's Life, (which God preserve) or after his demise or decease, aid, assist, counsel, or hold Correspondency with the said Duke of <hi>York,</hi> (who is, and ought to be esteemed a perpetual Enemy to these Kingdoms and Governments) either within these Kingdoms or out of them; or shall endeavour or contrive his Re<g ref="char:EOLhyphen"/>turn into either of them, or into any of the Territories or Dominions of the same; or shall, during the King's Life,
+<pb n="14" facs="tcp:50989:8"/> publish or declare him to be the Lawful or Rightful Successor Apparent, presumptive, or other Heir to the Crown of <hi>England;</hi> or shall after the demise, or decease of the King. that now is, proclaim, publish, or declare the said Duke of <hi>York</hi> to be King, or to have Right or Title to the Crown or Government of <hi>England</hi> or <hi>Ireland;</hi> or shall by Word, Writing, or Printing, maintain or assert that he hath any manner of Right or Title to the Crown or Government of these Kingdoms, and shall be therefore Convict upon the Evidence of two or more lawful and credible Witnesses, shall be adjudged guilty of High Treason, and shall suffer and forfeit as in cases of High Treason.</p>
+            <p>And forasmuch as the said Duke's return or coming into any of the aforesaid Kingdoms, Countries, Territories, or Do<g ref="char:EOLhyphen"/>minions, will naturally conduce to bring vast mischiefs, and all the evil hereby provided against upon them in War and Slaughter, and unspeakable Calamities, which therefore the said Duke must be presumed to designe by such his return, or coming into any of the aforesaid Kingdoms, Countries, Territories, or Dominions: Be it therefore likewise Enacted, and it is hereby Enacted by the Authority aforesaid, That if the said Duke do at any time hereafter return or come in<g ref="char:EOLhyphen"/>to any of the aforesaid Kingdoms, Countries, Territories, or Dominions; he shall be, and is hereby, thereupon, and for so doing, attainted of High Treason: And all manner of persons whatsoever, are hereby authorised and required to apprehend, secure and imprison his Person; and in case of resistance made by him, or any of his Accomplices, to subdue, or imprison him, or them, by force of Arms.</p>
+         </div>
+         <div type="speech">
+            <head>
+               <hi>A</hi> SPEECH <hi>in the House of</hi> COMMONS, <hi>Ʋpon Reading the Bill against the D. of</hi> York, <hi>May</hi> 1679.</head>
+            <p>WE have now the weightest matter under our Considerations that ever came before us, therefore we ought with the highest Zeal to speak our minds boldly for the King and Kingdom: for as the matter is of no less impor<g ref="char:EOLhyphen"/>tance, than to secure our Religion to Posterity, so much the rather should we apply our selves to manifest that we will not be discouraged by any seeming opposition whatsoever.</p>
+            <p>But as the Lord Chancellor lately told us, <hi>This is the time,</hi> so I must repeat it, <hi>That it is indeed the time;</hi> that is to say, <hi>the moment:</hi> which if we should suffer to slip from us, it may never be in our power to regain, and then our Chil<g ref="char:EOLhyphen"/>dren may be bound to Curse us: for I must tell you, That it will be utterly impossible ever to secure the Protestant Religion under a <hi>Popish</hi> Successor, unless you do totally disable him to inherit these Protestant Countries; and the Ty<g ref="char:EOLhyphen"/>ranny of the See of <hi>Rome</hi> will infallibly steal upon us.</p>
+            <p>For to think to restrain a King under the Power of a Penal Law, thereby to secure Religion, is no more than to bind <hi>Sampson</hi> with Cords, who as soon as 'tis said, <hi>The Philistims are upon thee,</hi> will break them all in pieces, and carry the Gates away with him, and leave you open to the invasion of the Enemy; nothing therefore can be able to secure us, but to clip his Locks: For if the Papists do at this time designe to subvert our Religion under a Protestant Prince, how much more will they designe against us under a Popish Successor? What will not the Priests and Jesuits undertake, to procure our Destruction, when they shall have the favour of the Prince, and are secured that the Laws and Statutes made against them, shall not be put in Execution? for 'tis <hi>Coleman</hi>'s Maxime, That if the Popish Religion stood upon an e<g ref="char:EOLhyphen"/>qual foot with the Protestant, the Popish Religion would get the better, as they would manage it; and then our E<g ref="char:EOLhyphen"/>states could never be secure, no, nor our very Lives; and Protestants would be discouraged, and hardly dare to speak their minds; and Massacres may be as frequent and as great here, as they were formerly at <hi>Paris:</hi> So that 'tis clear we can never restrain him.</p>
+            <p>The Lord Chancellor in his Speech tells you, That when His Majesty shall happen to dye, we shall have a convenient time to settle Religion and the Nation. Let me ask you, Must we act with the Successor, or without him? if we act with him, he will never consent to any thing we shall do against him; if without him, we act as a Common-Wealth; and that he will never suffer, but perhaps, will send his Guards, and turn us out of Doors, and what will become of us then?</p>
+            <p>One Reason laid down to us likewise is, That it is impossible for a Successor to raise Money, but by Consent of Parliament: that point may be easily answered by us, There are many small Burroughs and Towns who choose us, where there are but few Voices; how easie is it to purchase those Votes by Money? if he should lay out Ten or Twenty thousand pound for the purchase, they would soon give it him again; and then the whole Nation will be ruin'd with<g ref="char:EOLhyphen"/>out Redemption. The Speech of the Lord Chancellor is only a Fig-leaf to cover our Nakedness, or rather Leaf-Gold to flatter us; or like a Mother who having a froward Child, and upon necessity must do something to pacifie it, she gives it any thing she hath, but lets it keep it no longer than she pleases.</p>
+            <p>Now I have shown you the necessity of this Bill, let us next consider, that the good which will come by it, is far grea<g ref="char:EOLhyphen"/>ter than the evil that can ensue upon it; which I will thus demonstrate: if we give way to a Popish Successour, we give away Religion, and have Popish Tyranny for a recompence; And then consequently, our Estates will be taken away, and for an <hi>English</hi> man to lose his Estate, is worse than to lose his Life, since he must continue in perpetual Bondage, and be worse than a Captive slave, and shall be Priest-ridden every day; therefore in my opinion, it is far better for us to re<g ref="char:EOLhyphen"/>solve to maintain our Religion, and to secure our selves by opposing any violence that shall be offered to us from abroad, than to be in danger of having our Throats cut every moment, by those that shall be amongst us.</p>
+            <p>Now let us consider, whether this may be effected by Law, or out of necessity. I will put the Case, That if a Prince be born to a Kingdom who is either Lunatick, or otherwise disabled to do the Kingdom any good, shall not the Sub<g ref="char:EOLhyphen"/>jects in this Case proceed to choose another who may preserve the Kingdom, when otherwise it must of necessity pe<g ref="char:EOLhyphen"/>rish? as lately in the Case of <hi>Portugal,</hi> they chose another to succeed, because of the disability of the former; And shall not we then disable the Duke, who cannot possibly do the Nation any service, his Principles being so contrary and de<g ref="char:EOLhyphen"/>structive to the Laws, Statutes, and Constitutions of this Government, as nothing but ruine can ensue thereby?</p>
+            <p>Now as to the Point of Law, I must say, that as for a private person to rise against his Prince is Rebellion; so on the contrary, when there is an Act of Parliament to disable him, and that upon such good grounds and reasons as we have heard read against him this day, we shall be justified by all the World in opposing his Claim; and we have had Presi<g ref="char:EOLhyphen"/>dents
+<pb n="15" facs="tcp:50989:8"/> of this kind heretofore. And it was Enacted in Queen <hi>Elizabeths</hi> time, That those who durst any way dispute that the King and Parliament could not appoint a Successour, should be guilty of a Premunire.</p>
+         </div>
+         <div type="speech">
+            <head>
+               <hi>The Right Honourable the Earl of</hi> Shaftsbury's <hi>Speech in the House of Lords,</hi> March 25. 1679.</head>
+            <p>YOu are appointing of the consideration of the State of <hi>England</hi> to be taken up in a Committee of the whole House, some day next week. I do not know how well what I have to say may be received, for I never study either to make my Court well, or to be popular; I always speak what I am commanded by the dictates of the Spirit within me.</p>
+            <p>There are some other Considerations that concern <hi>England</hi> so nearly, that without them you will come far short of Safety and Quiet at home: <hi>We have a little Sister, and she hath no Breasts, what shall we do for our Sister in the day when she shall be spoken for? If she be a Wall, we will build on her a Palace of Silver; if she be a Door, we will inclose her with boards of Cedar.</hi> We have several little Sisters without Breasts, the <hi>French</hi> Protestant Churches, the two Kingdoms of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland;</hi> the Foreign Protestants are a Wall, the onely Wall and Defence to <hi>England;</hi> upon it you may build Palaces of Silver, glorious Palaces. The Protection of the Protestants abroad, is the greatest Power and Security the Crown of <hi>England</hi> can attain to, and which can onely help us to give check to the growing greatness of <hi>France. Scotland</hi> and <hi>Ireland</hi> are two Doors, either to let in Good or Mischief upon us; they are much weakned by the Artifice of our cunning Enemies, and we ought to inclose them with boards of Cedar.</p>
+            <p>
+               <hi>Popery</hi> and <hi>Slavery,</hi> like two Sisters, go hand in hand, sometimes one goes first, sometimes the other, in a doors, but the other is always following close at hand.</p>
+            <p>In <hi>England, Popery</hi> was to have brought in <hi>Slavery;</hi> in <hi>Scotland, Slavery</hi> went before, and <hi>Popery</hi> was to follow.</p>
+            <p>I do not think your Lordships or the Parliament have Jurisdiction there. It is a Noble and Ancient Kingdom; they have an Illustrious Nobility, a gallant Gentry, a Learned Clergy, and an understanding worthy people; but yet we can<g ref="char:EOLhyphen"/>not think of <hi>England</hi> as we ought, without reflecting on the Condition therein. They are under the same Prince, and the Influence of the same Favourites and Councils: when they are hardly dealt with, can we that are the Richer ex<g ref="char:EOLhyphen"/>pect better usage? for 'tis certain, that in all Absolute Governments, the poorest Countreys are always most favourably dealt with.</p>
+            <p>When the Ancient Nobility and Gentry there, cannot enjoy their Royalties, their Shrevaldoms, and their Stewardies, which they and their Ancestors have possessed for several hundred of years, but that now they are enjoyned by the Lords of the Council to make Deputations of their Authorities to such as are their known Enemies;</p>
+            <p>Can we expect to enjoy our <hi>Magna Charta</hi> long, under the same Persons and Administration of Affairs? If the Council-Table there can Imprison any Noble-man or Gentleman for several years, without bringing him to Tryal, or giving the least reason for what they do; can we expect the same men will preserve the Liberty of the Subject here?</p>
+            <p>I will acknowledge, I am not well vers'd in the particular Laws of <hi>Scotland;</hi> but this I do know, that all the <hi>Nor<g ref="char:EOLhyphen"/>thern</hi> Countries have by their Laws an undoubted and inviolable Right to their Liberties and Properties; yet <hi>Scotland</hi> hath out-done all the <hi>Eastern</hi> and <hi>Southern</hi> Countreys, in having their Lives, Liberties and Estates subjected to the Ar<g ref="char:EOLhyphen"/>bitrary Will and Pleasure of those that Govern. They have lately plundered and harrassed the richest and wealthiest Countries of that Kingdom, and brought down the barbarous <hi>High-landers</hi> to devour them; and all this almost with<g ref="char:EOLhyphen"/>out a colourable pretence to do it: Nor can there be found a reason of State for what they have done; but that those wicked Ministers designed to procure a Rebellion at any rate, which as they managed, was onely prevented by the mi<g ref="char:EOLhyphen"/>raculous Hand of God, or otherwise, all the Papists in <hi>England</hi> would have been Armed, and the fairest opportunity given in the just time, for the Execution of that Wicked and Bloody design the Papists had: and it is not possible for any man that duely considers it, to think other, but that those Ministers that acted that, were as guilty of the Plot, as any of the Lords that are in question for it.</p>
+            <p>My Lords, I am forced to speak this the plainer, because, till the pressure be fully and clearly taken off from <hi>Scotland,</hi> 'tis not possible for me, or any <hi>thinking man</hi> to believe, that good is meant us here.</p>
+            <p>We must still be upon our guard, apprehending, that the Principle is not changed at Court, and that those men that are still in Place and Authority, have that Influence upon the mind of our Excellent Prince, that he is not, nor cannot be that to us, that his own Nature and Goodness would incline him to.</p>
+            <p>I know your Lordships can order nothing in this; but there are those that hear me, can put a perfect Cure to it: until that be done, the <hi>Scottish Weed</hi> is like Death in the Pot, <hi>Mors in Olla.</hi> But there is something too, now I consi<g ref="char:EOLhyphen"/>der, that most immediately concerns us, their Act of Twenty two thousand men to be ready to invade us upon all oc<g ref="char:EOLhyphen"/>casions. This, I hear, that the Lords of the Council there have treated as they do all other Laws, and expounded it into a standing Army of Six thousand men. I am sure we have reason and right to beseech the King, that that Act may be better considered in the next Parliament there. I shall say no more for <hi>Scotland</hi> at this time, I am afraid your Lordships will think I have said too much, having no concern there; but if a <hi>French</hi> Noble-man should come to dwell in my House and Family, I should think it concerned me to ask what he did in <hi>France;</hi> for if he were there a Felon, a Rogue, a Plunderer, I should desire him to live elsewhere; and I hope your Lordships will do the same thing for the Nation, if you find the same cause.</p>
+            <p>My Lords, give me leave to speak two or three words concerning our other Sister, <hi>Ireland:</hi> thither I hear is sent <hi>Douglas's</hi> Regiment, to secure us against the <hi>French.</hi> Besides, I am credibly informed, that the Papists have their Arms restored, and the Protestants are not many of them yet recovered from being the suspected Party; the Sea-Towns, as well as the Inland, are full of Papists: that Kingdom cannot long continue in the <hi>English</hi> hands, if some better care be not taken of it. This is in your power, and there is nothing there, but is under your Laws: therefore I beg that this Kingdom at least may be taken into consideration, together with the state of <hi>England;</hi> for I am sure there can be no safety here, if these Doors be not shut up and made sure.</p>
+         </div>
+         <div type="speech">
+            <pb n="16" facs="tcp:50989:9"/>
+            <head>
+               <hi>The Honourable Mr.</hi> Powel's <hi>Speech in the House of Commons, upon the Earl of</hi> Danby's <hi>Impeach<g ref="char:EOLhyphen"/>ment, Pardon and Plea.</hi>
+            </head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>I Should have been pleased to have heard (somewhat omitted) needful to have been spoken unto, from some other Member of this House rather than my self; It is concerning the Earl of <hi>Danby,</hi> who stands Impeached by the Commons of <hi>England</hi> of High-Treason.</p>
+            <p>The person to whom we owe the Dangers and Fears of the <hi>French</hi> King against us.</p>
+            <p>The person to whom we owe the Threats and severe Answers to those humble Addresses we made the last Sessions of Parliament.</p>
+            <p>The person to whom we owe the Ruines of this Nation, and Exhausting the Kings Revenue.</p>
+            <p>The person to whom we owe the Expence of 200000 <hi>l.</hi> and upwards, within a year, unaccounted for.</p>
+            <p>The person to whom we owe the many Prorogations that hapned in the last Parliament, when many profitable Bills were ready for passing.</p>
+            <p>The person to whom we owe the raising of a standing Army, to be kept up by the Receipt of six Millions of Li<g ref="char:EOLhyphen"/>vres yearly, for three years together, to enslave us and our Religion.</p>
+            <p>The person to whom we owe the late Bone that was thrown in the sitting of the last Parliament, to hinder the good Issue that might have come by their Proceedings, who is now laying down his Staff, and making up his Accounts in the Treasury as he pleaseth, to inrich himself out of the Spoils of the People, and so depart.</p>
+            <p>My humble Motion is, that a Message be sent immediately to the Lords, from the Commons of <hi>England,</hi> to desire their Lordships, that <hi>Thomas</hi> Earl of <hi>Danby</hi> be immmediately committed to safe Custody, he being Impeached by the Commons of <hi>England</hi> of High-Treason.</p>
+         </div>
+         <div type="account">
+            <head>
+               <hi>An Account of the Acts exspired,</hi> April 2. 1679.</head>
+            <p>
+               <hi>MR. Palmes</hi> reports from the Committe appointed to inspect the Temporary Laws that will expire with this Sessions of Par<g ref="char:EOLhyphen"/>liament, that the Committee had agreed upon a Report, which he read in his Place, and afterwards delivered in the same at the Clerks Table, where the same was read, and is as followeth.</p>
+            <p>13 <hi>Car.</hi> 2. <hi>C.</hi> 8. An Act for providing necessary Carriages for His Majesty, in His Royal Progress and Removals.</p>
+            <p>13, 14 <hi>Carol.</hi> 2. <hi>C.</hi> 2. An Act for Repairing the High-ways and Sewers, and paving and keeping clean the Streets in and about the Cities of <hi>London</hi> and <hi>Westminster,</hi> and for reforming of Annoyances and Disorders in the Streets of, and Places adjacent to the said Cities, and for the Regulating and Licencing of Hackney Coaches, and for Enlarging of several streight and inconvenient Streets and Passages.</p>
+            <p>
+               <hi>Ibid. C.</hi> 6. An Act for Enlarging and Repairing common High-ways.</p>
+            <p>
+               <hi>Ibid. C.</hi> 9. An Act for Relieving of Poor and Maimed Officers and Souldiers, who have faithfully served His Majesty and His Royal Father in the late Wars.</p>
+            <p>
+               <hi>Ibid. C.</hi> 12. An Act for the better Relieving of the Poor of this Kingdom, excepting what relates unto Corporations, men<g ref="char:EOLhyphen"/>tioned and constituted thereby.</p>
+            <p>
+               <hi>Ibid. C.</hi> 20. An Act for providing of Carriage by Land and by Water, for the use of His Majesties Navy and Ordnance.</p>
+            <p>
+               <hi>Ibid. C.</hi> 21. An Act for preventing the unnecessary Charge of Sheriffs, and for case in passing their Accompts.</p>
+            <p>
+               <hi>Ibid. C.</hi> 32. An Act for the Regulating of the Manufacture of Broad Woolen Cloath, within the West-Riding of the Coun<g ref="char:EOLhyphen"/>ty of <hi>York.</hi>
+            </p>
+            <p>
+               <hi>Ibid. C.</hi> 33. An Act for preventing Abuses in Printing Seditious and Treasonable and Ʋnlicensed Books and Pamphlets, and for regulating of Printing and Printing Presses.</p>
+            <p>15 <hi>Car.</hi> 2. <hi>C.</hi> 5. An Act for regulating Select Vestryes.</p>
+            <p>17 <hi>Car.</hi> 2. <hi>C.</hi> 4. An Act for Continuance of a former Act for regulating the Press.</p>
+            <p>18 <hi>Car.</hi> 2. <hi>C.</hi> 2. An Act against importing Cattel from <hi>Ireland,</hi> and other parts beyond the Seas, and Fish taken by For<g ref="char:EOLhyphen"/>reigners.</p>
+         </div>
+         <div type="document">
+            <head>
+               <hi>The Commons Address against the Duke of</hi> Lauderdail, <hi>presented to His Majesty,</hi> May 9. 1679.</head>
+            <p>WE your Majesties most Loyal and Dutiful Subjects, the Commons in this present Parliament Assembled, finding your Majesties Kingdoms involved in imminent dangers, and great difficulties, by the evil designs and pernici<g ref="char:EOLhyphen"/>ous Councels of some, who have been, and still are in high places of Trust and Authority about your Royal Person, who contrary to the duty of their places, by their Arbitrary and destructive Counsels, tending to the Subversion o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Rights, Liberties, and Properties of your Subjects, and the alteration of the Protestant Religion Established, have endeavoured to alienate the hearts of your good Subjects from your Majesty and your Government, which we by ou<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> duty are bound to preserve. We have just reason to accuse <hi>John</hi> Duke of <hi>Lauderdail,</hi> for a chief Promoter of such Councels; and more particularly for contriving and endeavouring to raise Jealousies and Misunderstandings between this your Majesties Kingdom and <hi>Scotland,</hi> whereby Hostilities might have ensued and arisen between both Nations, i<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not prevented: wherefore we your Majesties most Loyal Subjects cannot but be sensibly affected and troubled to see such a person, notwithstanding the repeated Addresses of your late Parliament, continued in your Council at this time when the Affairs of your Kingdom requires none to be set in such Imployments, but such as are of known Abilities <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Interest, and Esteem in the Nation, without all suspition of either mistaking or betraying the true Interest of the King<g ref="char:EOLunhyphen"/>dom, and consequently of Advising your Majesty ill.</p>
+            <p>We do therefore most humbly beseech your Majesty, for the taking away the great Jealousies and dissatisfaction<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amongst your good Subjects, who are opprest with great grief and sorrow, that your Majesty will graciously be please<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to remove the Duke of <hi>Lauderdail</hi> from your Majesties Councils, in your Majesties Kingdoms of <hi>England</hi> and <hi>Scotland</hi> and from all Offices, Imployments, and places of Trust, and from your Majesties presence for ever.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50989:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
